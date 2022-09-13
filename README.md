@@ -1,4 +1,4 @@
-# EarlyProjectsCpp
+# EarlyProjectsC++
 
 Dear future me, 
   Im writing this on 13 September 2022, nothing much but I hope you somehow will achieve your dreams which is to study abroad whether in MIT or University of Manchester and also to be a data analyst/software engineer. Let's be honest here, no one will expect you to do anything, but its up to you whether you want to achieve your dreams or not. In 2 years and so on , let's hope we can improve ourself in terms of coding style, communications and relationship whether between friends of families;
